@@ -1,1 +1,1 @@
-# yodaplus-traning
+# yodaplus-training
